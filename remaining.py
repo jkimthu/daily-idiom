@@ -21,3 +21,6 @@ Out of the woods
 Knock on wood
 You can't have your cake and eat it too
 Clutching at straws
+Kill two birds with one stone
+Early bird catches the worm
+Getting a run for your money
