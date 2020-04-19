@@ -18,18 +18,13 @@ Created on Sat Apr 18 20:58:00 2020
 import numpy as np
 
 
-# 1. import list of idioms from collection
-# A) used for first selection only
-#    comment out following three lines when using 1B
-import subprocess
-subprocess.Popen("/Users/jen/daily-idiom/collection.py", shell=True)
-from collection import idioms
+# 1. import list of idioms from remaining collection
+with open('remaining.py') as f:
+    idioms = f.read().splitlines()
 
-# B) used for all downstream selections 
-#    comment out following two lines when using 1A
-# with open('remaining.py') as f:
-#     idioms = f.read().splitlines()
-
+#import subprocess
+#subprocess.Popen("/Users/jen/daily-idiom/collection.py", shell=True)
+#from collection import idioms
 # print(len(idioms))
 # print(type(idioms))
 # print(idioms)
