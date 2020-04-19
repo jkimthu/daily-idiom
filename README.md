@@ -3,9 +3,9 @@ A random inspirational message for every day
 
 
 ## Note:
-collection.py is a copy of the initial version of remainding.py
-whenever the code in idiom-generator.py is run, remaining.py should get one phrase shorter!
-feel free to add new idioms to remainding.py :)
+- collection.py is a copy of the initial version of remainding.py
+- whenever the code in idiom-generator.py is run, remaining.py should get one phrase shorter!
+- feel free to add new idioms to remainding.py :)
 
 
 ## CURATED LIST OF IDIOMS
