@@ -3,13 +3,12 @@ Living by the seat of your pants
 Burning the candle from both ends
 Take this with a grain of salt
 Caught between the devil and the deep blue sea
-The tables have turned
 Burn it into your memory
 To paint a grim picture
 I took the liberty of
-You might turn a blind eye
+To turn a blind eye
 That's the way the cookie crumbles
-It rains cats and dogs
+It's raining cats and dogs
 To paint the town red
 Not my cup of tea
 Don't sell me a dog

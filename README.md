@@ -36,3 +36,6 @@ The full list (whereas collection.py idioms yet to be assigned)
  22.  "Knock on wood",
  23.  "You can't have your cake and eat it too",
  24.  "Clutching at straws"
+ 25.  "Kill two birds with one stone"
+ 26.  "Early bird catches the worm"
+ 27.  "To get a run for your money"
