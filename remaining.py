@@ -12,7 +12,6 @@ It's raining cats and dogs
 To paint the town red
 Not my cup of tea
 Don't sell me a dog
-Sweating like a pig
 A watched pot never boils
 I'll reign it in
 Just my two cents
