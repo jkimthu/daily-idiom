@@ -23,3 +23,6 @@ Clutching at straws
 Kill two birds with one stone
 Early bird catches the worm
 Getting a run for your money
+To see the light at the end of the tunnel
+I'm on a kick
+
