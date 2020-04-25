@@ -3,7 +3,6 @@ Living by the seat of your pants
 Burning the candle from both ends
 Take this with a grain of salt
 Caught between the devil and the deep blue sea
-Burn it into your memory
 To paint a grim picture
 I took the liberty of
 To turn a blind eye
