@@ -13,7 +13,6 @@ Not my cup of tea
 Don't sell me a dog
 A watched pot never boils
 I'll reign it in
-Just my two cents
 Out of the woods
 Knock on wood
 You can't have your cake and eat it too
@@ -23,4 +22,6 @@ Early bird catches the worm
 Getting a run for your money
 To see the light at the end of the tunnel
 I'm on a kick
+This pushes my buttons
+This grinds my gears
 
