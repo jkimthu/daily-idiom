@@ -49,4 +49,9 @@ The full list (whereas collection.py idioms yet to be assigned)
  35.  Treading water
  36.  The last straw
  37.  I've cooked my goose
+ 38.  Hand caught in the cookie jar
+ 39.  To spill the beans
+ 40.  It has a good ring to it
+ 41.  You can put your money on it
+ 42.  You can take it to the bank
 
