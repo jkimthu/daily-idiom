@@ -54,4 +54,7 @@ The full list (whereas collection.py idioms yet to be assigned)
  40.  It has a good ring to it
  41.  You can put your money on it
  42.  You can take it to the bank
+ 43.  To have an egg on one's face
+ 44.  Hitting the hay
+ 45.  It's all french to me
 
