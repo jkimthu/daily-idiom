@@ -7,7 +7,6 @@ To paint a grim picture
 I took the liberty of
 To turn a blind eye
 That's the way the cookie crumbles
-It's raining cats and dogs
 To paint the town red
 Not my cup of tea
 Don't sell me a dog
