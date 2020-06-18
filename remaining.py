@@ -8,7 +8,6 @@ I took the liberty of
 To turn a blind eye
 That's the way the cookie crumbles
 To paint the town red
-Not my cup of tea
 Don't sell me a dog
 A watched pot never boils
 I'll reign it in
