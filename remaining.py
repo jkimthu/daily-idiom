@@ -21,7 +21,6 @@ Early bird catches the worm
 Getting a run for your money
 To see the light at the end of the tunnel
 I'm on a kick
-This pushes my buttons
 This grinds my gears
 To bite of more than I can chew
 Don't rest on your laurel
@@ -37,3 +36,4 @@ You can take it to the bank
 To have an egg on one's face
 Hitting the hay
 It's all french to me
+It's like herding cats
