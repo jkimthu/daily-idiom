@@ -23,7 +23,6 @@ I'm on a kick
 This grinds my gears
 To bite of more than I can chew
 Don't rest on your laurel
-The horse has left the barn
 Treading water
 The last straw
 I've cooked my goose
