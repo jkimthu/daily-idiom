@@ -31,6 +31,5 @@ It has a good ring to it
 You can put your money on it
 You can take it to the bank
 To have an egg on one's face
-Hitting the hay
 It's all french to me
 It's like herding cats
