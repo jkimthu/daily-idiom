@@ -6,7 +6,6 @@ Caught between the devil and the deep blue sea
 To paint a grim picture
 I took the liberty of
 To turn a blind eye
-That's the way the cookie crumbles
 To paint the town red
 Don't sell me a dog
 A watched pot never boils
