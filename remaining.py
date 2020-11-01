@@ -27,7 +27,6 @@ The last straw
 I've cooked my goose
 Hand caught in the cookie jar
 To spill the beans
-It has a good ring to it
 You can put your money on it
 You can take it to the bank
 To have an egg on one's face
